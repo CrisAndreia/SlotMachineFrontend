@@ -1,0 +1,41 @@
+/*.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+  }
+  
+  .title {
+    font-size: 3rem;
+    color: #ff4500;
+  }
+  
+  .controls {
+    margin-top: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 1.2rem;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    background-color: #ff4500;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .result {
+    margin-top: 30px;
+    font-size: 1.5rem;
+    color: #4caf50;
+  }*/
+  

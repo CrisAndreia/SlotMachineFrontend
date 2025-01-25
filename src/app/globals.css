@@ -1,0 +1,21 @@
+/* globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Utilize uma classe para aplicar o tema */
+.theme-light {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+.theme-dark {
+  --background: #0a0a0a;
+  --foreground: #ededed;
+}
+
+/* Corpo do documento respeita as variáveis */
+/*body {
+  color: var(--foreground);
+  background: var(--background);
+}*/
