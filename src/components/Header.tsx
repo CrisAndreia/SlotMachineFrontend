@@ -26,7 +26,7 @@ export default function Header() {
     <AppBar position="static" color="primary" sx={{ mb: 4 }}>
       <Toolbar>
         <Image 
-            src="/images/LeoVegas-logo.png"
+            src="/images/casino-logo.png"
             alt="Casino Logo"
             width={40} 
             height={40}
@@ -52,6 +52,3 @@ export default function Header() {
     </AppBar>
   );
 }
-/*<header>
-      <h1 onClick={() => handleNavigation('/')} style={{ color: '#ffffff'}}>LeoVegas Cassino Grounds</h1>
-    </header>*/
